@@ -1,4 +1,5 @@
 extracted_content/
 manuals/
-.DS_Store/
+.DS_Store
 .ipynb_checkpoints/
+*.json
