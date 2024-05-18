@@ -3,3 +3,6 @@ manuals/
 .DS_Store
 .ipynb_checkpoints/
 *.json
+*.faiss
+json_files/
+*images*/
